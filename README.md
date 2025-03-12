@@ -46,13 +46,6 @@
 
 ---
 
-## 🎧 Spotify Music While I Code  
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ykknge4y4vizwjw3fv63445ai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"
-</p>
-
----
-
 ## 🔥 GitHub Activity & Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=rahul12-01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
